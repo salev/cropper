@@ -1,7 +1,7 @@
 # SLV Cropper
-## JavaScript image cropper and region of interest selection.
+### JavaScript image cropper and region of interest selection.
 
-### [demo](https://salev.github.io/cropper)
+### [Demo](https://salev.github.io/cropper)
 
 Current version uses JQuery. _(It is planning to make a version with pure JS)_
 
