@@ -31,8 +31,8 @@ _(use it when open method has a parameter of <input> element)_
 example:
   onchange="slvCropper.onImageFileSelection(this.files)"
 
-#### crop
+#### crop()
 crops the image.
 
-#### box
+#### box()
 draws a box.
