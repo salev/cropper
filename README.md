@@ -30,9 +30,9 @@ returns resulting URL-encoded image through the provided callback.
 _(use it when open method has a parameter of <input> element)_
 
 example:
-
+```js
   onchange="slvCropper.onImageFileSelection(this.files)"
-
+```
 #### crop()
 crops the image.
 
