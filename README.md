@@ -28,7 +28,9 @@ returns resulting URL-encoded image through the provided callback.
 
 #### onImageFileSelection(files)
 _(use it when open method has a parameter of <input> element)_
+
 example:
+
   onchange="slvCropper.onImageFileSelection(this.files)"
 
 #### crop()
