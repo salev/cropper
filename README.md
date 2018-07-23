@@ -1,4 +1,4 @@
-# SLV Cropper
+# Image Cropper
 ### JavaScript image cropper and region of interest selection.
 
 ### [Demo](https://salev.github.io/cropper)
